@@ -14,8 +14,8 @@ Welcome to the AI News Generator, a web application that leverages AI agents to 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/WilliamMassalino/Crewai-Projects/tree/main/Research_Agent)
+   cd Research_Agent
    ```
 
 2. Install the required packages:
@@ -27,7 +27,8 @@ Welcome to the AI News Generator, a web application that leverages AI agents to 
    - Create a `.env` file in the root directory.
    - Add your Gemini API key:
      ```
-     GEMINI_API_KEY=your_api_key_here
+     SERPER_API_KEY=your_serper_api_key_here
+     GEMINI_API_KEY=your_gemini_api_key_here
      ```
 
 ## Usage
